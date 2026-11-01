@@ -1,0 +1,386 @@
+{
+  "categories": [
+    {
+      "id": "tex-mex",
+      "label": "Tex-Mex",
+      "color": "#ff5d3a",
+      "chip": true,
+      "aliases": ["mexican", "tex-mex", "tex_mex", "texmex", "taco", "tacos", "burrito", "burritos", "fajita", "fajitas"],
+      "terms": ["taco", "tacos", "taqueria", "fajitas", "queso", "burrito", "enchiladas", "salsa", "tex-mex", "tex mex", "mexican"],
+      "photos": [
+        "photo-1565299585323-38d6b0865b47.jpg",
+        "photo-1551504734-5ee1c4a1479b.jpg",
+        "photo-1615870216519-2f9fa575fa5c.jpg"
+      ]
+    },
+    {
+      "id": "bbq",
+      "label": "BBQ",
+      "color": "#f0a202",
+      "chip": true,
+      "aliases": ["barbecue", "bbq", "barbeque"],
+      "terms": ["brisket", "ribs", "smoked", "sausage", "barbecue", "bbq"],
+      "photos": [
+        "photo-1529193591184-b1d58069ecdd.jpg",
+        "photo-1558030006-450675393462.jpg",
+        "photo-1544025162-d76694265947.jpg",
+        "photo-1529692236671-f1f6cf9683ba.jpg"
+      ]
+    },
+    {
+      "id": "vietnamese",
+      "label": "Vietnamese",
+      "color": "#3ecf8e",
+      "chip": true,
+      "aliases": ["vietnamese", "pho", "banh_mi"],
+      "terms": ["pho", "banh mi", "banh", "vermicelli", "vietnamese"],
+      "photos": [
+        "photo-1582878826629-29b7ad1cdc43.jpg",
+        "photo-1576577445504-6af96477db52.jpg",
+        "photo-1555126634-323283e090fa.jpg"
+      ]
+    },
+    {
+      "id": "seafood",
+      "label": "Seafood & Cajun",
+      "color": "#4cc9f0",
+      "chip": true,
+      "aliases": ["seafood", "cajun", "creole", "fish", "oyster", "oysters", "crawfish", "shrimp", "poboy", "po-boy", "po_boy"],
+      "terms": ["crawfish", "gumbo", "shrimp", "oysters", "poboy", "po-boy", "cajun", "catfish", "seafood"],
+      "photos": [
+        "photo-1615141982883-c7ad0e69fd62.jpg",
+        "photo-1467003909585-2f8a72700288.jpg",
+        "photo-1559737558-2f5a35f4523b.jpg",
+        "photo-1565680018434-b513d5e5fd47.jpg",
+        "photo-1519708227418-c8fd9a32b7a2.jpg"
+      ]
+    },
+    {
+      "id": "burgers",
+      "label": "Burgers",
+      "color": "#ff8a00",
+      "chip": true,
+      "aliases": ["burger", "burgers", "hamburger"],
+      "terms": ["burger", "burgers", "cheeseburger", "hamburger"],
+      "photos": [
+        "photo-1568901346375-23c9450c58cd.jpg",
+        "photo-1550547660-d9450f859349.jpg",
+        "photo-1571091718767-18b5b1457add.jpg",
+        "photo-1553979459-d2229ba7433b.jpg"
+      ]
+    },
+    {
+      "id": "pizza",
+      "label": "Pizza",
+      "color": "#ffb703",
+      "chip": true,
+      "aliases": ["pizza"],
+      "terms": ["pizza", "pepperoni", "pizzeria"],
+      "photos": [
+        "photo-1513104890138-7c749659a591.jpg",
+        "photo-1565299624946-b28f40a0ae38.jpg",
+        "photo-1574071318508-1cdbab80d002.jpg",
+        "photo-1604382354936-07c5d9983bd3.jpg"
+      ]
+    },
+    {
+      "id": "chinese",
+      "label": "Chinese",
+      "color": "#ff4d6d",
+      "chip": true,
+      "aliases": ["chinese", "dim_sum", "szechuan", "sichuan", "cantonese", "hotpot", "hot_pot"],
+      "terms": ["dim sum", "dumplings", "hot pot", "sichuan", "chinese", "fried rice"],
+      "photos": [
+        "photo-1563245372-f21724e3856d.jpg",
+        "photo-1496116218417-1a781b1c416c.jpg",
+        "photo-1585032226651-759b368d7246.jpg",
+        "photo-1526318896980-cf78c088247c.jpg",
+        "photo-1512058564366-18510be2db19.jpg"
+      ]
+    },
+    {
+      "id": "sushi",
+      "label": "Sushi & Japanese",
+      "color": "#ff7aa2",
+      "chip": true,
+      "aliases": ["sushi", "japanese", "ramen", "izakaya"],
+      "terms": ["sushi", "ramen", "omakase", "nigiri", "japanese"],
+      "photos": [
+        "photo-1579871494447-9811cf80d66c.jpg",
+        "photo-1579584425555-c3ce17fd4351.jpg",
+        "photo-1553621042-f6e147245754.jpg",
+        "photo-1611143669185-af224c5e3252.jpg",
+        "photo-1569718212165-3a8278d5f624.jpg"
+      ]
+    },
+    {
+      "id": "breakfast",
+      "label": "Breakfast",
+      "color": "#ffe066",
+      "chip": true,
+      "aliases": ["breakfast", "brunch", "pancake", "pancakes", "waffle", "waffles", "bagel", "bagels"],
+      "terms": ["brunch", "pancakes", "kolache", "kolaches", "eggs", "breakfast", "waffles"],
+      "photos": [
+        "photo-1533089860892-a7c6f0a88666.jpg",
+        "photo-1525351484163-7529414344d8.jpg",
+        "photo-1484723091739-30a097e8f929.jpg",
+        "photo-1567620905732-2d1ec7ab7445.jpg",
+        "photo-1493770348161-369560ae357d.jpg"
+      ]
+    },
+    {
+      "id": "coffee",
+      "label": "Coffee",
+      "color": "#e6c7a2",
+      "chip": true,
+      "aliases": ["coffee", "coffee_shop", "bubble_tea", "tea", "juice", "smoothie", "smoothies"],
+      "terms": ["coffee", "espresso", "latte", "cafe", "tea", "boba"],
+      "photos": [
+        "photo-1495474472287-4d71bcdd2085.jpg",
+        "photo-1509042239860-f550ce710b93.jpg",
+        "photo-1504754524776-8f4f37790ca0.jpg",
+        "photo-1442512595331-e89e73853f31.jpg"
+      ]
+    },
+    {
+      "id": "southern",
+      "label": "Southern",
+      "color": "#d4a0ff",
+      "chip": true,
+      "aliases": ["southern", "soul_food", "soul", "comfort_food"],
+      "terms": ["soul food", "southern", "comfort", "meat and three"],
+      "photos": [
+        "photo-1626082927389-6cd097cdc6ec.jpg",
+        "photo-1562967914-608f82629710.jpg",
+        "photo-1608039755401-742074f0548d.jpg",
+        "photo-1476224203421-9ac39bcb3327.jpg"
+      ]
+    },
+    {
+      "id": "indian",
+      "label": "Indian",
+      "color": "#ff9f1c",
+      "chip": true,
+      "aliases": ["indian", "south_indian", "north_indian"],
+      "terms": ["curry", "biryani", "naan", "tandoori", "indian"],
+      "photos": [
+        "photo-1585937421612-70a008356fbe.jpg",
+        "photo-1563379091339-03b21ab4a4f8.jpg",
+        "photo-1631452180519-c014fe946bc7.jpg",
+        "photo-1596797038530-2c107229654b.jpg",
+        "photo-1505253758473-96b7015fcd40.jpg"
+      ]
+    },
+    {
+      "id": "korean",
+      "label": "Korean",
+      "color": "#c77dff",
+      "chip": true,
+      "aliases": ["korean", "korean_bbq"],
+      "terms": ["korean", "kimchi", "bibimbap", "bulgogi"],
+      "photos": [
+        "photo-1590301157890-4810ed352733.jpg",
+        "photo-1498654896293-37aacf113fd9.jpg",
+        "photo-1552611052-33e04de081de.jpg"
+      ]
+    },
+    {
+      "id": "thai",
+      "label": "Thai",
+      "color": "#2ec4b6",
+      "chip": true,
+      "aliases": ["thai"],
+      "terms": ["pad thai", "thai", "curry"],
+      "photos": [
+        "photo-1559314809-0d155014e29e.jpg",
+        "photo-1455619452474-d2be8b1e70cd.jpg",
+        "photo-1562565652-a0d8f0c59eb4.jpg"
+      ]
+    },
+    {
+      "id": "chicken",
+      "label": "Chicken",
+      "color": "#ffb347",
+      "chip": true,
+      "aliases": ["chicken", "wings", "fried_chicken"],
+      "terms": ["wings", "fried chicken", "tenders", "chicken"],
+      "photos": [
+        "photo-1626082927389-6cd097cdc6ec.jpg",
+        "photo-1562967914-608f82629710.jpg",
+        "photo-1527477396000-e27163b481c2.jpg",
+        "photo-1608039755401-742074f0548d.jpg"
+      ]
+    },
+    {
+      "id": "bakery",
+      "label": "Bakery & Sweets",
+      "color": "#ffafcc",
+      "chip": true,
+      "aliases": ["bakery", "pastry", "donut", "donuts", "doughnut", "dessert", "ice_cream", "cake", "cookie", "cookies", "cupcake", "frozen_yogurt", "kolache", "crepe", "crepes"],
+      "terms": ["donut", "donuts", "kolache", "kolaches", "pastry", "dessert", "ice cream", "cake", "bakery"],
+      "photos": [
+        "photo-1551024601-bec78aea704b.jpg",
+        "photo-1488477181946-6428a0291777.jpg",
+        "photo-1578985545062-69928b1d9587.jpg",
+        "photo-1551024506-0bccd828d307.jpg",
+        "photo-1565958011703-44f9829ba187.jpg"
+      ]
+    },
+    {
+      "id": "latin",
+      "label": "Latin American",
+      "color": "#ff6b9d",
+      "chip": true,
+      "aliases": ["latin_american", "salvadoran", "salvadorian", "colombian", "cuban", "peruvian", "venezuelan", "honduran", "guatemalan", "caribbean", "jamaican", "argentinian", "argentine", "brazilian", "nicaraguan", "ecuadorian"],
+      "terms": ["pupusa", "pupusas", "arepas", "empanadas", "latin", "salvadoran"],
+      "photos": [
+        "photo-1565299585323-38d6b0865b47.jpg",
+        "photo-1551504734-5ee1c4a1479b.jpg",
+        "photo-1615870216519-2f9fa575fa5c.jpg"
+      ]
+    },
+    {
+      "id": "mediterranean",
+      "label": "Mediterranean",
+      "color": "#95d5b2",
+      "chip": true,
+      "aliases": ["mediterranean", "greek", "lebanese", "turkish", "middle_eastern", "falafel", "shawarma", "persian", "arab", "israeli", "kebab", "gyros", "gyro"],
+      "terms": ["falafel", "gyro", "hummus", "shawarma", "kebab", "mediterranean"],
+      "photos": [
+        "photo-1540189549336-e6e99c3679fe.jpg",
+        "photo-1512621776951-a57141f2eefd.jpg",
+        "photo-1529042410759-befb1204b468.jpg"
+      ]
+    },
+    {
+      "id": "steak",
+      "label": "Steak",
+      "color": "#ff6b6b",
+      "chip": true,
+      "aliases": ["steak", "steak_house", "steakhouse"],
+      "terms": ["steak", "steakhouse", "ribeye"],
+      "photos": [
+        "photo-1600891964092-4316c288032e.jpg",
+        "photo-1432139555190-58524dae6a55.jpg",
+        "photo-1550966871-3ed3cdb5ed0c.jpg"
+      ]
+    },
+    {
+      "id": "pakistani",
+      "label": "Pakistani",
+      "color": "#ffd166",
+      "chip": true,
+      "aliases": ["pakistani"],
+      "terms": ["pakistani", "haleem", "biryani"],
+      "photos": [
+        "photo-1563379091339-03b21ab4a4f8.jpg",
+        "photo-1585937421612-70a008356fbe.jpg",
+        "photo-1601050690597-df0568f70950.jpg"
+      ]
+    },
+    {
+      "id": "african",
+      "label": "African",
+      "color": "#f4a261",
+      "chip": true,
+      "aliases": ["african", "nigerian", "ethiopian", "ghanaian", "eritrean", "moroccan", "senegalese"],
+      "terms": ["jollof", "suya", "injera", "african", "nigerian"],
+      "photos": [
+        "photo-1604329760661-e71dc83f8f26.jpg",
+        "photo-1512058564366-18510be2db19.jpg",
+        "photo-1504674900247-0877df9cc836.jpg"
+      ]
+    },
+    {
+      "id": "italian",
+      "label": "Italian",
+      "color": "#b5e48c",
+      "chip": true,
+      "aliases": ["italian", "pasta"],
+      "terms": ["pasta", "italian", "lasagna"],
+      "photos": [
+        "photo-1621996346565-e3dbc646d9a9.jpg",
+        "photo-1473093295043-cdd812d0e601.jpg",
+        "photo-1551183053-bf91a1d81141.jpg"
+      ]
+    },
+    {
+      "id": "noodles",
+      "label": "Noodles",
+      "color": "#90e0ef",
+      "chip": true,
+      "aliases": ["noodle", "noodles", "asian", "malaysian", "filipino", "indonesian", "pan_asian", "taiwanese"],
+      "terms": ["noodle", "noodles", "asian"],
+      "photos": [
+        "photo-1569718212165-3a8278d5f624.jpg",
+        "photo-1585032226651-759b368d7246.jpg",
+        "photo-1557872943-16a5ac26437e.jpg"
+      ]
+    },
+    {
+      "id": "sandwich",
+      "label": "Sandwiches",
+      "color": "#d4c4a8",
+      "chip": true,
+      "aliases": ["sandwich", "sandwiches", "deli", "sub", "hoagie"],
+      "terms": ["sandwich", "deli", "po-boy", "poboy"],
+      "photos": [
+        "photo-1553909489-cd47e0907980.jpg",
+        "photo-1481070555726-e2fe8357725c.jpg",
+        "photo-1539252554453-80ab65ce3586.jpg"
+      ]
+    },
+    {
+      "id": "food-hall",
+      "label": "Food halls",
+      "color": "#f8f4ee",
+      "chip": true,
+      "aliases": ["food_court", "food_hall"],
+      "terms": ["food hall", "food court"],
+      "photos": [
+        "photo-1555396273-367ea4eb4db5.jpg",
+        "photo-1414235077428-338989a2e8c0.jpg",
+        "photo-1552566626-52f8b828add9.jpg"
+      ]
+    },
+    {
+      "id": "american",
+      "label": "American",
+      "color": "#f4efe6",
+      "chip": false,
+      "aliases": ["american", "hot_dog", "diner", "grill"],
+      "terms": ["american"],
+      "photos": [
+        "photo-1414235077428-338989a2e8c0.jpg",
+        "photo-1550966871-3ed3cdb5ed0c.jpg",
+        "photo-1504674900247-0877df9cc836.jpg"
+      ]
+    },
+    {
+      "id": "quick",
+      "label": "Quick service",
+      "color": "#ffd6a5",
+      "chip": false,
+      "aliases": [],
+      "terms": ["fast food"],
+      "photos": [
+        "photo-1568901346375-23c9450c58cd.jpg",
+        "photo-1550547660-d9450f859349.jpg",
+        "photo-1594212699903-ec8a3eca50f5.jpg"
+      ]
+    },
+    {
+      "id": "other",
+      "label": "Restaurant",
+      "color": "#f7d6b8",
+      "chip": false,
+      "aliases": [],
+      "terms": [],
+      "photos": [
+        "photo-1414235077428-338989a2e8c0.jpg",
+        "photo-1504674900247-0877df9cc836.jpg",
+        "photo-1559339352-11d035aa65de.jpg"
+      ]
+    }
+  ]
+}
