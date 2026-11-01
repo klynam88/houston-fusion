@@ -6,7 +6,7 @@
     "predev": "cp node_modules/maplibre-gl/dist/maplibre-gl-worker.mjs public/maplibre-gl-worker.js",
     "prebuild": "cp node_modules/maplibre-gl/dist/maplibre-gl-worker.mjs public/maplibre-gl-worker.js",
     "dev": "next dev --turbopack -H 0.0.0.0 -p 43123",
-    "build": "next build --turbopack",
+    "build": "next build",
     "start": "next start -H 0.0.0.0 -p 43123",
     "lint": "eslint",
     "places": "python3 scripts/build_places.py"
